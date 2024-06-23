@@ -1,0 +1,225 @@
+.main
+{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+.p
+{
+    width: 40%;
+    height: 80%;
+    position: absolute;
+    top: 10%;
+    position: relative;
+}
+.c1
+{
+    background: linear-gradient(#0C1844,#01204E,#00215E,#1C1678,#121481);
+    width: 100%;
+    height: 45%;
+    border-radius: 20px;
+    box-shadow: 0px 0px 5px 3px gray;
+    position: relative;
+}
+.c2
+{
+    background: linear-gradient(#0C1844,#01204E,#00215E,#1C1678,#121481);
+    width: 100%;
+    height: 45%;
+    position: absolute;
+    top: 50%;
+    border-radius: 20px;
+    box-shadow: 0px 0px 5px 3px gray;
+}
+.img1
+{
+    height: 30%;
+    width: 20%;
+    position: absolute;
+    top: 5%;
+    left: 2%;
+}
+.owl
+{
+    height: 53%;
+    width: 20%;
+    position: absolute;
+    top: 23%;
+    left: 65%;
+    border-radius: 90%;
+    position: relative;
+}
+.img2
+{
+    height: 100%;
+    width: 100%;
+    border-radius: 70%;
+    border: 5px solid green;
+    position: absolute;
+}
+.vertical
+{
+    height: 365px;
+    width: 25%;
+    border-left:  5px solid green;
+    position: absolute;
+    left: 70%;
+    top: 0%;
+    rotate: 50deg;
+}
+.vertical1
+{
+    height: 345px;
+    width: 25%;
+    border-left:  5px solid #E8C872;
+    position: absolute;
+    left: 73%;
+    top: 8%;
+    rotate: 50deg;
+}
+.img3
+{
+    height: 60%;
+    width: 30%;
+    position: absolute;
+    left: 75%;
+    bottom: 1%;
+}
+.matter
+{
+    color: yellow;
+    width: 50%;
+    position: absolute;
+    left: 5%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-shadow: 1px 1px green;
+    font-size: 15px;
+    bottom: 25%;
+}
+.digits
+{
+    color: #7A9D54;
+}
+.digits1
+{
+    color: #527853;
+}
+.diamond
+{
+    height: 365px;
+    width: 25%;
+    border-left:  5px solid green;
+    position: absolute;
+    left: 60%;
+    top: 0%;
+    rotate: 50deg;
+}
+.diamond1
+{
+    height: 365px;
+    width: 25%;
+    border-left:  5px solid #E8C872;
+    position: absolute;
+    left: 65%;
+    top: 0%;
+    rotate: 50deg;
+}
+.scan
+{
+    height: 35%;
+    width: 20%;
+    background-color: white;
+    position: absolute;
+    left: 75%;
+    top: 53%;
+    border-radius: 20px;
+}
+.img6
+{
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+    border: 5px solid green;
+}
+.form
+{
+    width: 60%;
+    height: 80%;
+    position: absolute;
+    left: 5%;
+    top: 20%;
+}
+.l1
+{
+    color: yellow;
+    position: absolute;
+    bottom: 85%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.s1
+{
+    color: yellow;
+    position: absolute;
+    bottom: 85%;
+    left: 20%;
+}
+.l2
+{
+    color: yellow;
+    position: absolute;
+    bottom: 70%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.s2
+{
+    color: yellow;
+    position: absolute;
+    bottom: 70%;
+    left: 20%;
+}
+.l3
+{
+    color: yellow;
+    position: absolute;
+    bottom: 55%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.s3
+{
+    color: yellow;
+    position: absolute;
+    bottom: 55%;
+    left: 20%;
+}
+.l4
+{
+    color: yellow;
+    position: absolute;
+    bottom: 40%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.s4
+{
+    color: yellow;
+    position: absolute;
+    bottom: 40%;
+    left: 20%;
+}
+.network
+{
+   width: 25%;
+   height: 60%;
+   position: absolute;
+   left: 75%;
+   bottom: 20%;
+}
+.network2
+{
+   width: 20%;
+   height: 60%;
+   position: absolute;
+   left: 65%;
+   bottom: -10%;
+}
